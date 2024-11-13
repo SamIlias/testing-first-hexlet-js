@@ -1,3 +1,5 @@
+// Lesson 1
+
 import capitalize from '../src/capitalize.js';
 
 if (capitalize('helLo') !== 'HelLo') {
