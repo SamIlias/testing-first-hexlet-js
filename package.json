@@ -36,6 +36,7 @@
     "@eslint/eslintrc": "^3.1.0",
     "@eslint/js": "^9.14.0",
     "@jest/globals": "^29.7.0",
+    "babel-preset-power-assert": "^3.0.0",
     "eslint": "^9.14.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.31.0",
@@ -44,6 +45,8 @@
     "jest-cli": "^29.7.0",
     "lint-staged": "^15.2.10",
     "npm-check-updates": "^17.1.11",
-    "simple-git-hooks": "^2.11.1"
+    "power-assert": "^1.6.1",
+    "simple-git-hooks": "^2.11.1",
+    "webpack-espower-loader": "^2.0.0"
   }
 }
